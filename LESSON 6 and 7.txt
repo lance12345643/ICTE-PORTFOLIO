@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+‹title>Poem</title>
+<link rel="stylesheet" href-"CSS3.css" type="text/css">
+<body>
+<h1>The Teenage Years</h1>
+‹p><font class-"Typo1" >
+We learn from our mistakes,<br> From the wrong turns we take, ‹br> From the fake friends we make, <br> And from the times we almost break.<br><br>
+Our mistakes help us grow,<br>
+But at the time, we didn't know.<br>
+We didn't want our weakness to show.<br> At the time, we couldn't let them know.<br> </font></p> </body> </html>

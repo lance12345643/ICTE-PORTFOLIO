@@ -1,0 +1,143 @@
+<html>
+<head><link rel="icon" href="DKK.png"><title>E-Portfolio</title></head>
+<body style="font-family:Courier New; background-color:#6F4E37" background="ada.jpg">
+<p>
+<table width="100%" style="font-size:25px;"cellpadding="10px"background="asa.jfif" bordercolor="#6d3e1c" border="10">
+<tr valign="top">
+<td bgcolor="#6d3e1c">
+<h1 style="text-align:center; color:#C19A6B;">!PORTFOLIO!</h1>
+<h2 style="text-align:center; color:#C19A6B;">Music Time, Listen to my fav songs!</h2>
+<h3 style="text-align:center; color:#C19A6B;">Juno by Sabrina Carpenter</h3>
+<audio controls="controls"><source src="Juno.mp3"></audio>
+<h3 style="text-align:center; color:#C19A6B;">Backburner by Niki</h3>
+<audio controls="controls"><source src="NIKI -  Backburner (Official Lyric Video).mp3"></audio>
+<h3 style="text-align:center; color:#C19A6B;">Good Luck, Babe! by Chappell Roan</h3>
+<audio controls="controls"><source src="Chappell Roan - Good Luck, Babe! (Official Lyric Video).mp3"></audio>
+<h3 style="text-align:center; color:#C19A6B;">My love mine all mine by Mitski</h3>
+<audio controls="controls"><source src="Mitski - My Love Mine All Mine (Official Lyric Video) [ ezmp3.cc ].mp3"></audio>
+<h3 style="text-align:center; color:#C19A6B;">Bags by Clairo</h3>
+<audio controls="controls"><source src="Clairo - Bags [ ezmp3.cc ].mp3"></audio>
+<hr color="#C19A6B" size="5px"/>
+<ul class="list1">
+<b><em><li><a href="https://www.facebook.com/lanceneo.esliza.7" style="color:#C19A6B;">Facebook Profile☆</a></li></em></b>
+<b><em><li><a href="https://www.instagram.com/lncerz_17/" style="color:#C19A6B;">Instagram Profile ☆</a></li></em></b>
+<b><em><li><a href="https://www.roblox.com/home" style="color:#C19A6B;">Favorite Online Website ☆</a></li></em></b>
+<b><em><li><a href="mailto:lanceneo.esliza_student@depedlaspinas.ph" style="color:#C19A6B;"> EMAIL ME! </a></li></em></b>
+</ul>
+<hr color="#C19A6B" size="5px"/>
+<form action="http://www.myserver.com/myscript.cgi" method="post">
+<h4 style="text-align:left; color:#C19A6B;">Enter your Name</h4>                    
+<input type="text" />                     
+<h4 style="text-align:left; color:#C19A6B;">Enter your Account</h4>   
+<input type="email" name="usermail"/>
+<h4 style="text-align:left; color:#C19A6B;">Select your status</h4>                     
+<select name="contractchoice" size="1"> 
+<option>Student</option>
+<option>Teacher</option>
+<option>Parent</option>
+<option>Guest</option>
+</select>
+<input type="submit"/>
+</form>
+<hr color="#C19A6B" size="5px"/>
+<h1 style="text-align:center; color:#C19A6B;">REFLECTION</h1>
+<h3 style="text-align:center; color:#C19A6B;">As I step into the world of coding when I was grade 8, I was scared on how coding is very complicated and how I will fail ICT. But one thing I realized was never giving up will lead to success. Now in grade 9 ICT, I feel like I am not doing my best since I never really found the will to code, but reflecting now while doing my portfolio made me think otherwise. I think these HTML lessons will be manifested into my hobbies as I am fond on designing my webpages while I incorporate my thoughts. It gave me a sense of home, responsibility and comfort. I also reflected that Coding is not hard, you just need to understand and persevere and NEVER cram.</h3>
+<hr color="#C19A6B" size="5px"/>
+<h2 style="text-align:center; color:#C19A6B;">CREDITS</h2>
+<ul>
+<li><b><a href="https://www.google.com/imgres?imgurl=https://4.bp.blogspot.com/_iw3Vvd1jqmA/Re413mUpNnI/AAAAAAAAAQI/PFD3qIS6dYE/w1200-h630-p-k-no-nu/ampalaya.JPG&tbnid=lkCed2vbrVDPvM&vet=1&imgrefurl=https://pinoynegosyo.blogspot.com/2007/03/farming-ampalaya-momordica-charantia-l.html&docid=2sr0vYV_fHbWfM&w=541&h=285&hl=en&source=sh/x/im/m1/5&kgs=9da0bca4fde84f39&shem=abme,trie" style="color:#C19A6B;">AMPALAYA PIC☆</a></li></b>
+<li><b><a href="https://www.google.com/imgres?imgurl=https://www.servicemaster.co.za/wp-content/uploads/2021/11/FI-Crazy-fly.png&tbnid=vDHFEB9aJJlD4M&vet=1&imgrefurl=https://www.servicemaster.co.za/blog/crazy-mosquito-fly-facts/&docid=TVx9nnpgmvjRWM&w=3763&h=2506&hl=en&source=sh/x/im/m1/5&kgs=61094efb61c12280&shem=abme,trie" style="color:#C19A6B;">FLY PIC ☆</a></li></b>
+</td>
+<td>
+<table align="center" border="10" background="Cottagecore_herb_kitchen_sage.jpg" bordercolor="#6d3e1c" cellpadding="30px" width="80%">
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr valign="top">
+<td style="font-size:25px;" bgcolor="#C19A6B">
+<h2 style="text-align:center; color:#6d3e1c;" >
+<br>
+☆
+Meet Me☆ 
+<br>
+</h2>
+<hr color="#6d3e1c" size="5px"/>
+<p style="color:#6d3e1c;"><b>Haiyooo!! My name is Lance Neo C. Esliza and I am from 9-Family!! I am very eagered to present to ou my E-PORTFOLIO and my whole self >w<. I hope you enjoy and have fun!<img src="lancey.jpg" alt="BBQ" width="400px" height="300px"/> <b>
+My favorite subject is biology and I enjoy watching while doing my assignments! I really prioritize my social life since I want to feel happy, they make me feel happy when I am with them. I hope this E-Portfolio let you get to know me!!<img src="kok.jpg" alt="me"
+width="250px" height="350px"/> </b></p>
+</td>
+<td bgcolor="#C19A6B" style="font-size:25px;" rowspan="2">                            
+<h2 style="text-align:center;color:#6d3e1c;" >♡Likes Things that I Like♡</h2>
+<hr color="#6d3e1c" size="5px"/>
+<ul class="list">
+<b><li style="color:#6d3e1c;" >☆Stationery☆<img src="460938773_2036995356718931_8380562360362741962_n.jpg" alt="Newly Bought Stationery from NBS" width="300px" height="250px" class="pfp"/></li></b>
+<b><li style="color:#6d3e1c;" >☆Debate☆<img src="460928320_506258372169682_2484234463551053756_n.jpg" alt="Picture of me and The LPSCI debate Society in DLSU Taft" width="300px" height="250px" class="pfp"/></li></b>
+<b><li style="color:#6d3e1c;" >☆Frozen Treats☆<img src="459331990_1211985270038343_8352932185597271143_n.jpg" alt="Biscoff Froyo from Cloud" width="300px" height="250px" class="pfp"/></li></b>
+<b><li style="color:#6d3e1c;" >☆Games☆<img src="Bayonetta-3---via-Nintendo (1).avif" alt="Gameplay of Bayonetta 3" width="300px" height="200px" class="pfp"/></li></b>  
+</ul>
+</td>
+<td bgcolor="#C19A6B" style="font-size:25px;" rowspan="2">
+<h2 style="text-align:center;color:#6d3e1c;" >♡Likes Things that I hate/Dislikes♡</h2>
+<hr color="#6d3e1c" size="5px"/>
+<ul class="list">
+<b><li style="color:#6d3e1c;" >☆Insentivity☆<img src="461049651_1040871950876307_2932179234109835785_n.jpg" alt="Insensitive Person" width="300px" height="250px" class="pfp"/></li></b>
+<b><li style="color:#6d3e1c;" >☆Ampalaya☆<img src="461279738_8337200083037759_3559873353390419512_n.jpg" alt="Ampalaya" width="300px" height="250px" class="pfp"/></li></b>
+<b><li style="color:#6d3e1c;" >☆Flies and Mosquitos☆<img src="461008477_508657495427384_1027023250976236798_n.jpg" alt="Pest" width="300px" height="250px" class="pfp"/></li></b>
+<b><li style="color:#6d3e1c;" >☆Brownout/Flood☆<video controls="controls" src="461251166_8403725909683773_1188565512066157654_n.mp4" width="400px" height="200px"></video></li></b>  
+</ul>
+</td>  
+<td bgcolor="#C19A6B" style="font-size:25px;" rowspan="2">
+<h2 style="text-align:center;color:#6d3e1c;" >♡Things I Value♡</h2>
+<hr color="#6d3e1c" size="5px"/>
+<b><li style="color:#6d3e1c;" >☆Family☆<img src="459297391_534332299174817_4885753285435237702_n.jpg" alt="Family Picture" width="300px" height="250px" class="pfp"/></li></b>
+<b><li style="color:#6d3e1c;" >☆Friends☆<img src="459580141_1066398891643167_1042910756893739773_n.jpg" alt="Picture of me and my friends at Yssa's Bday class="pfp" width="300px" height="250px"/></li></b>
+<b><li style="color:#6d3e1c;" >☆Academics☆<img src="452236437_514510097701627_8708540969458286561_n.jpg" alt="Math Solution Board" width="300px" height="250px" class="pfp"/></li></b>
+<b><li style="color:#6d3e1c;" >☆Me☆<img src="460938775_1768232320580388_5616304560454655072_n.jpg" alt="Selfie Pic" width="300px" height="200px" class="pfp"/></li></b>  
+</td>
+</tr>
+<tr>
+<td bgcolor="#6d3e1c" colspan="4">
+<a name="1st"><h1 style="color:#C19A6B; text-align:center;">1st Quarter ☆</h1></a>
+<hr color="#C19A6B" size="5px"/>
+</td>
+</tr>
+<tr>
+<td bgcolor="#C19A6B" colspan="2" align="center">
+<img src="cult.jpg" alt="cult"
+width="600px" height="400px"/>
+<p style="color:#6d3e1c;"> </td>
+<td bgcolor="#C19A6B" valign="top" colspan="2">
+<h2 style="text-align:center;color:#6d3e1c;" >♡Inaugural Speech♡</h2>
+<hr color="#6d3e1c" size="10px"/>
+<p style="color:#6d3e1c;font-size:23px;"><b>This is a picture of my English Inaugural Speech that took place on September 2024. I was playing the role of a conservative cult leader and everthing being said in my speech was FALSE and only satire. My teacher and classmates enjoyed my performance since I got alot of praises and a perfect score from my speech.<br><br> Speeches are one of my favorite activities since its is the activity were I can freely express my self. It gives me the comfort of speaking my mind and the satisfaction of completing it. I would like to thank everyone that supported me and I realized that confidence is the key to speaking. <br><br> CREDITS:SOFIE MERCADO </b></p>
+<tr>
+<td bgcolor="#C19A6B" colspan="2" align="center">
+<img src="as.jpg" alt="Group Photo"
+width="600px" height="400px"/>     </td>
+<td bgcolor="#C19A6B" valign="top" colspan="2">
+<h2 style="text-align:center;color:#6d3e1c;" >♡L.I.W.A.N.A.G NGO♡</h2>
+<hr color="#6d3e1c" size="10px"/>
+<p style="color:#6d3e1c;font-size:23px;"><b>This is a photo of our ESP/AP Collaboration NGO Performance task in wich we were tasked on maging a non-goverment project. Our topic was prioritizing the health of those who are in need.<br><br> Our NGO, L.I.W.A.N.A.G is a project in which the youth will organize and help in treating and helping children in risk of diseases, flues and many other viruses. It focuses on treating or helping the children who are in need of treatments since alot of children nowadays are having alot of diseases.<br><br> This teached us on how NGO'S are really working and helping our world to strive better and how much effort it takes for them to help the people in need. <br><br>CREDITS: Kiev Arkin Punzalan</p>
+</tr>
+<tr>
+<td bgcolor="#C19A6B" colspan="2" align="center">
+<img src="SCI.jpg" alt="Group Photo"
+width="600px" height="400px"/> </td>
+<td bgcolor="#C19A6B" valign="top" colspan="2">
+<h2 style="text-align:center;color:#6d3e1c;" >♡HUMAN SIMULATION♡</h2>
+<hr color="#6d3e1c" size="10px"/>
+<p style="color:#6d3e1c;font-size:23px;"><b> This is a PICTURE in our Science Performance task which we were tasked to make a human simulation of the circulatory and respiratory system works. We did a Dora inspired presentation in which the main character was a erythocyte trying to get oxygenated.<br><br> Our whole skit was entirely adlibed as I teached them on how to adlib and to release their inner freakiness. We got 99/100 even though we practiced for a short amount of time. <br><br> Sometimes, I miss the memories in which the activities we were only doing was skits since its very easy to do and manage and we get high scores.<br><br> CREDITS:Sofie Mercado
+</tr>
+<tr>
+<td bgcolor="#C19A6B" colspan="2" align="center">
+<img src="eng.jpg" alt="Group Photo"
+width="600px" height="400px"/> </td>
+<td bgcolor="#C19A6B" valign="top" colspan="2">
+<h2 style="text-align:center;color:#6d3e1c;" >♡ENGLISH MUSIC MAKING♡</h2>
+<hr color="#6d3e1c" size="10px"/>
+<p style="color:#6d3e1c;font-size:23px;"><b> This is a picture of our ENGLISH performance task in were we are tasked to make song about anything while using the different types of conditionals. We based our song from the original song of Meghan Trainor's song Dear Future Husband. 
+<br><br>
+We really enjoyed our performance even though it was messy since we got to bond as a team and also as classmates. It teached us on how hard being a songwriter really is and how it could also be fun.I hope more activities like these happens through my grade 9 experience. <br><br>Credits: Ms. Gia Apalona
+</tr>
+</table>
+</html>
